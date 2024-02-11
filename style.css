@@ -1,3 +1,31 @@
 body{
+    font-family: verdana, Arial, Helvetica, sans-serif;
+    margin: 0%;
+}
+img{
+ border: 1px null;
+ border-radius: 50%;
+ height: 200px;
+}
+#container1{
+    background-color: rgb(157, 195, 226);
+    float: left;
+    padding:4%;
+}
+#container2{
+    background-color: rgb(201, 201, 201);
+    float:right;
+    padding: 20px;
+}
+#container{
+    display: flex;
+    height: 100vh;
+    margin-inline: 20%;
+}
+li
+{color: white;
     
+}
+h1{
+    text-align: center;
 }
